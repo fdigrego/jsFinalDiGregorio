@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.mostrarProductos {
+  height: 30%;
+  overflow-y: scroll;
+}
+.grey {
+    background-color: #ddd;
+}  
+.cyan {
+    background-color: rgb(153, 211, 211);
+}
+  
